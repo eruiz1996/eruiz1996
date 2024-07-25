@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Edgar Ruiz</h1>
-<h3 align="center">An Actuarial and Mathematical person with a passionate interest in programming topics</h3>
+<h3 align="center">An Actuarial and Mathematical professionist with a passionate interest in programming topics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eruiz1996&label=Profile%20views&color=0e75b6&style=flat" alt="eruiz1996" /> </p>
 
